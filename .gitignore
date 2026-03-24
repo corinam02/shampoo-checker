@@ -1,0 +1,67 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Java build artifacts
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# IDE - Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# IDE - VS Code
+.vscode/
+
+# Sistem / OS
+.DS_Store
+Thumbs.db
+
+# Log-uri și fișiere temporare
+*.log
+/tmp/
